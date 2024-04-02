@@ -15,5 +15,3 @@ de dar a conocer algunos de los proyectos que he realizado y difundir el conocim
   <img src="/me.jpg" alt="Me">
 </center>
 
-![Mi imagen](/me.jpg)
-
