@@ -11,5 +11,9 @@ en la extracción, limpieza, gestión, análisis y visualización de datos, a tr
 Soy un apasionado y un entusiasta de la generación de valor a través de los datos. Por eso, este blog tiene la finalidad
 de dar a conocer algunos de los proyectos que he realizado y difundir el conocimiento.
 
+<p align="center">
+  <img src="/me.jpg" alt="Me">
+</p>
+
 ![Mi imagen](/me.jpg)
 
