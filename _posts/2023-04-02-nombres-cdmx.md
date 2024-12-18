@@ -7,11 +7,15 @@ La popularidad de los nombres es un reflejo de los temas que son tendencia en la
 Lo primero que hicimos fue analizar los nombres más populares de forma bruta en los últimos años, lo cual nos llevo a las siguientes gráficas de hombres y mujeres.
 
 INSERTAR GRÁFICAS
-![me](https://github.com/jorgecrga/jorgecrga.github.io/blob/master/me.jpg)
+<center>
+  <img src="/me.jpg" alt="Me">
+</center>
 
 HOLA A TODOS!!!
 
-![mex2](https://github.com/jorgecrga/jorgecrga.github.io/blob/master/me.jpg)
+<center>
+  <img src="/me.jpg" alt="Me">
+</center>
 
 
 
