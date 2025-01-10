@@ -8,7 +8,7 @@ Lo primero que hicimos fue analizar los nombres más populares de forma bruta en
 
 INSERTAR GRÁFICAS
 <center>
-  <img src="/asistencia_2024.jpg" alt="Me">
+  <img src="/asistencia_2024.png" alt="Me">
 </center>
 
 HOLA A TODOS!!!
